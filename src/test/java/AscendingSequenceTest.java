@@ -66,4 +66,5 @@ public class AscendingSequenceTest {
 
         Assert.assertArrayEquals(expectedResult, actualResult);
     }
+
 }
