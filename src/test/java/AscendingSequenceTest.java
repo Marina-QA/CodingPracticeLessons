@@ -51,7 +51,7 @@ public class AscendingSequenceTest {
      }
     @Test
 
-    public void testAscendingSequenceNegativePositiveCase(){
+    public void testAscendingSequenceNegativePositiveCase() {
 
         int startNumber = -2;
         int endNumber = 3;
@@ -63,5 +63,4 @@ public class AscendingSequenceTest {
 
         Assert.assertArrayEquals(expectedResult, actualResult);
     }
-
 }

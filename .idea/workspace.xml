@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dffc5ee4-5db9-4d48-bce7-82fc8e0aba70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingPractice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AscendingSequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AscendingSequenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AscendingSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AscendingSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/print/AscSeqNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/print/AscSeqNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/AscendingSequenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AscendingSequenceTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="dffc5ee4-5db9-4d48-bce7-82fc8e0aba70" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
