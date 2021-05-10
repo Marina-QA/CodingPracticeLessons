@@ -1,6 +1,5 @@
 import org.junit.Assert;
 import org.junit.Test;
-import org.junit.Assert;
 
 public class AscendingSequenceTest {
 
@@ -35,7 +34,6 @@ public class AscendingSequenceTest {
 
     }
 
-
      @Test
 
     public void testAscendingSequenceNegativeNumbersCase(){
@@ -49,7 +47,6 @@ public class AscendingSequenceTest {
          int[] actualResult = ascendingSequence.buildAscendingArray(startNumber, endNumber);
 
              Assert.assertArrayEquals(expectedResult, actualResult);
-
 
      }
     @Test
